@@ -1,0 +1,12 @@
+06/03/2015 21:13
+
+- adding functions
+- multiplying functions
+- composite functionins
+- constant functions
+- polynomial functions (x^p) p - const
+- f(x)^g(x)
+- sin
+- cos
+- log base e
+- calculating derivatives
